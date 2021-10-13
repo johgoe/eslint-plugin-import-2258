@@ -1,0 +1,17 @@
+{
+  "name": "eslint-plugin-import-2258",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "lint": "eslint **/*.js"
+  },
+  "devDependencies": {
+    "eslint": "^8.0.0",
+    "eslint-plugin-import": "^2.25.2"
+  },
+  "dependencies": {
+    "@apollo/client": "^3.4.16",
+    "graphql": "^15.6.1"
+  }
+}
